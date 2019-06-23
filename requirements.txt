@@ -1,0 +1,5 @@
+numpy==1.16.2
+bokeh==1.2.0
+pandas==0.24.1
+requests==2.21.0
+alpha_vantage==2.1.0
